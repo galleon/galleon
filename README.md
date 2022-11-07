@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=galleon&show_icons=true&theme=dark&hide=stars&hide_title=true)](https://github.com/galleon)
+## [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=galleon&show_icons=true&theme=dark&hide=stars&hide_title=true&count_private=true)](https://github.com/galleon)
 
 ## [![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galleon&layout=compact&theme=dark&hide_title=true)](https://github.com/galleon)
 
