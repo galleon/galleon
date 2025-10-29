@@ -4,10 +4,10 @@
 
 ## [![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galleon&layout=compact&theme=dark&hide_title=true)](https://github.com/galleon)
 
+<!--
 ![github contribution grid snake animation](https://raw.githubusercontent.com/galleon/galleon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/galleon/galleon/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<!--
 **galleon/galleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
