@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## [![My GitHub stats](https://github-stats-extended.vercel.app/api?username=galleon)](https://github.com/galleon)
+## [![My GitHub stats](https://github-stats-extended.vercel.app/api?username=galleon&layout=compact)](https://github.com/galleon)
 
-## [![My top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=galleon)](https://github.com/galleon)
+## [![My top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=galleon&layout=compact)](https://github.com/galleon)
 <!--
 ![github contribution grid snake animation](https://raw.githubusercontent.com/galleon/galleon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/galleon/galleon/output/github-contribution-grid-snake.svg#gh-light-mode-only)
