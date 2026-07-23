@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-## [![My GitHub stats](https://github-stats-extended.vercel.app/api?username=galleon&layout=compact)](https://github.com/galleon)
-
-## [![My top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=galleon&layout=compact)](https://github.com/galleon)
-
-## [![My top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=galleon&layout=compact&langs_count=4&theme=graywhite)](https://github.com/galleon)
+## [![My GitHub stats][(https://github-stats-extended.vercel.app/api?username=galleon&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=catppuccin_latte)(https://github.com/galleon)
 <!--
 ![github contribution grid snake animation](https://raw.githubusercontent.com/galleon/galleon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/galleon/galleon/output/github-contribution-grid-snake.svg#gh-light-mode-only)
